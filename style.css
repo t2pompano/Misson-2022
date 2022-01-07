@@ -3,10 +3,13 @@ body{
     margin: 0;
 }
 h1{
-    font-size: 65px;
+    font-size: 60px;
+}
+h2{
+    font-size: 50px;
 }
 .stay-focus{
-    font-family: 'Playfair Display', serif;
+    font-family: 'Yeseva One', cursive;
 }
 .orange{
     color: orange;
@@ -22,3 +25,38 @@ h1{
 .half-width img{
     width: 75%;
 }
+
+.link-button{
+    text-decoration: none;
+    background-color:red;
+    background-image: linear-gradient(orange red);
+    font-weight: 900;
+    color:blue;
+    padding: 18px 130px;
+    border-radius: 10px;
+}    
+#every-one{
+    position: relative;
+    top: 40px;
+}
+
+.mivigo img{
+    width: 75%;
+    padding-left: 160px;
+}
+.half-width2{
+    width: 50%;
+    padding-left: 15%;
+    padding-right:5%;
+}
+.half-width2 img{
+    width: 80%;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+}
+ footer p{
+     text-align: center;
+ }
+ 
